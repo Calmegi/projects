@@ -1,11 +1,15 @@
-# projects
+# Портфолио проектов
 
-an a/b test
+## A/B Testing
 
-EDA 
+**Задача:** Сравнение оценок двух типов мороженного с помощью статистического тестирования
 
-a classificator for fashion_mnist dataset images
+**Технологии:** `Python`, `pandas`, `numpy`, `scipy`, `seaborn`, `matplotlib`
 
-mathematical statistics laboratory works №3 and №4 (mat_stat)
+**Ключевые этапы:**
+- Предобработка и очистка данных
+- Разведочный анализ (EDA)
+- Визуализация распределений (Boxplot, KDE, Q-Q plot)
+- Статистический анализ с использованием t-теста
+- Работа с межквартильным диапазоном
 
-MRI segmentation model
